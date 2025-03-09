@@ -18,4 +18,3 @@ export const FavoritesPage = () => {
     <Table datasource={favData} />
   )
 }
-// testing

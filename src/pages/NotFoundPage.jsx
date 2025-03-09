@@ -5,4 +5,3 @@ export const NotFoundPage = () => {
     <div>PAGE NOT FOUND :/</div>
   )
 }
-// testing

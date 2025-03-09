@@ -65,4 +65,3 @@ export const Table = (props) => {
     </div>
   );
 };
-// testing
